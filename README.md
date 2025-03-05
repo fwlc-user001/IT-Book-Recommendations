@@ -5,10 +5,10 @@ This repository is a curated collection of top-rated and essential books in the 
 
 ## What You'll Find Here:
 
-- **Networking**: Books to help you understand the backbone of the internet and modern communication systems.  
-- **Cybersecurity**: Learn how to protect systems, networks, and data from malicious attacks.  
-- **Programming**: Enhance your coding skills with top books on various programming languages and best practices.  
-- **Cloud Computing**: Discover the tools and technologies that are shaping the future of IT infrastructure.  
+- **Networking**: Books to help you understand the backbone of the internet and modern communication systems.
+- **Cybersecurity**: Learn how to protect systems, networks, and data from malicious attacks.
+- **Programming**: Enhance your coding skills with top books on various programming languages and best practices.
+- **Cloud Computing**: Discover the tools and technologies that are shaping the future of IT infrastructure.
 - **Data Science**: Dive into the world of data analysis, machine learning, and artificial intelligence.
 
 Each book comes with a brief introduction and a direct link to purchase it on **Amazon**, so you can easily get your hands on these resources and start learning today!
@@ -18,7 +18,9 @@ Each book comes with a brief introduction and a direct link to purchase it on **
 - [Networking](../Networking/index.md)
 - [Cybersecurity](../Cybersecurity)
 - [Programming](../Programming)
-- [Cloud Computing](../Cloud-Computing/index.md)
+  <!-- - [Cloud Computing](../Cloud-Computing/index.md) -->
+
+- [Cloud Computing Security](https://github.com/fwlc-user001/IT-Book-Recommendations/blob/main/Cloud-Computing/index.md)
 - [Data Science](../Data-Science)
 
 ## How to Contribute
