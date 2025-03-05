@@ -18,7 +18,7 @@ Each book comes with a brief introduction and a direct link to purchase it on **
 - [Networking](../Networking)
 - [Cybersecurity](../Cybersecurity)
 - [Programming](../Programming)
-- [Cloud Computing](https://github.com/fwlc-user001/IT-Book-Recommendations/tree/main/Cloud-Computing)
+- [Cloud Computing](https://github.com/fwlc-user001/IT-Book-Recommendations/blob/main/Cloud-Computing/index.md)
 - [Data Science](../Data-Science)
 
 ## How to Contribute
