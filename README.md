@@ -15,7 +15,7 @@ Each book comes with a brief introduction and a direct link to purchase it on **
 
 ## Categories
 
-- [Networking](./Networking)
+- [Networking](../Networking)
 - [Cybersecurity](./Cybersecurity)
 - [Programming](./Programming)
 - [Cloud Computing](./Cloud-Computing)
