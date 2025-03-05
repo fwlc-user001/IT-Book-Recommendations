@@ -15,11 +15,11 @@ Each book comes with a brief introduction and a direct link to purchase it on **
 
 ## Categories
 
-- [Networking](../Networking/index.md)
-- [Cybersecurity](../Cybersecurity)
-- [Programming](../Programming)
+- [Networking](./Networking/index.md)
+- [Cybersecurity](./Cybersecurity)
+- [Programming](./Programming)
 - [Cloud Computing](./Cloud-Computing/index.md) 
-- [Data Science](../Data-Science)
+- [Data Science](./Data-Science)
 
 ## How to Contribute
 
